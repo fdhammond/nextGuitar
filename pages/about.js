@@ -7,7 +7,7 @@ export default function About() {
     <>
       <Layout title={"About"} description="Guitar-Next guitar shop, about us">
         <main className="contenedor">
-          <h2 className="heading">About us</h2>
+          <h1 className="heading">About us</h1>
           <div>
             <Image
               src="/img/nosotros.jpg"
